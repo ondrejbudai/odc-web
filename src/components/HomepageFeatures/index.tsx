@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        OCD is based on osbuild, a production-ready image building tool.
+        ODC is based on osbuild, a production-ready image building tool.
       </>
     ),
   },
